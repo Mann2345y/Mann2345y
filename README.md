@@ -1,16 +1,16 @@
-### Hi there 👋
+# HEY THERE ! :clap:
 
-<!--
-**Mann2345y/Mann2345y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm __Mahesh Arya__, currently a __fresher__ and Looking for an opportunity.
+* My proficient languages are, __Javascript__ and __C++__.
+* My tech stack is __MERN__ stack.
+* I love learning about new tools and technologies.
 
-Here are some ideas to get you started:
+### My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Shop on the go https://stgstore.herokuapp.com
+* Chatter https://chatterwebsapp.herokuapp.com
+* Planner hhtps://plannerwebsapp.herokuapp.com
+* Crypadda https://crypadda.netlify.app
+
+### My Tech Toolbox
+
