@@ -1,6 +1,6 @@
 # HEY THERE ! :clap:
-
-* I'm __Mahesh Arya__, currently a __React JS Developer__ at __Articuno Coding__.
+Cancel changes
+* I'm __Mahesh Arya__, currently working as __React JS Developer__ at __Articuno Coding__.
 * My proficient languages are, __Javascript__ and __C++__.
 * My tech stack is __MERN__ stack.
 * I love learning about new tools and technologies.
