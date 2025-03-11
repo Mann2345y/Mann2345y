@@ -1,5 +1,5 @@
 # HEY THERE ! :clap:
-* I'm __Mahesh Arya__, currently working as __React JS Developer__ at __DANLabs__.
+* I'm __Mahesh Arya__, currently working as __Frontend Web Developer__ at __DANLabs__.
 * Having 2+ years of experience, in maintaining large frontend applications and creating new features
 * My tech stack is __MERN__ stack.
 * I love learning about new tools and technologies.
