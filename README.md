@@ -6,9 +6,6 @@
 
 ### My Projects
 
-* Shop on the go https://stgstore.herokuapp.com
-* Chatter https://chatterwebsapp.herokuapp.com
-* Planner https://plannerwebsapp.herokuapp.com
 * Crypadda https://crypadda.netlify.app
 
 ### My Tech Toolbox
