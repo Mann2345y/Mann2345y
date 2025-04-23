@@ -4,13 +4,6 @@
 * My tech stack is __MERN__ stack.
 * I love learning about new tools and technologies.
 
-### Clients
-
-* Wobb https://wobb.ai
-* Danlabs https://danlabs.xyz
-* Beyt https://beyt.co
-* Equippp https://equippp.in/
-
 ### My Projects
 
 * Crypadda https://crypadda.netlify.app
