@@ -7,6 +7,7 @@
 ### My Projects
 
 * Crypadda https://crypadda.netlify.app
+* Beyt https://beyt.co
 
 ### My Tech Toolbox
 
