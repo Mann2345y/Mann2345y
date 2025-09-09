@@ -1,13 +1,16 @@
 # HEY THERE ! :clap:
 * I'm __Mahesh Arya__, currently working as __Frontend Web Developer__ at __DANLabs__.
-* Having 2+ years of experience, in maintaining large frontend applications and creating new features
+* Having 3+ years of experience, in maintaining large frontend applications and creating new features
 * My tech stack is __MERN__ stack.
 * I love learning about new tools and technologies.
 
-### My Projects
+### Portfolio
 
 * Crypadda https://crypadda.netlify.app
 * Beyt https://beyt.co
+* Streamnft https://streamnft.tech
+* Ed3 https://ed3.xyz
+* Wobb https://wobb.ai
 
 ### My Tech Toolbox
 
