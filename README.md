@@ -8,6 +8,7 @@
 
 * Crypadda https://crypadda.netlify.app
 * Beyt https://beyt.co
+* AML KW https://amlkw.com
 * Streamnft https://streamnft.tech
 * Ed3 https://ed3.xyz
 * Wobb https://wobb.ai
