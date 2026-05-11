@@ -12,6 +12,7 @@
 * Streamnft https://streamnft.tech
 * Ed3 https://ed3.xyz
 * Wobb https://wobb.ai
+* The souled store https://thesouledstore.com
 
 ### My Tech Toolbox
 
