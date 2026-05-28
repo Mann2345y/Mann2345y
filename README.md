@@ -16,6 +16,7 @@
 
 ### My Tech Toolbox
 
+![vue](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1280px-Vue.js_Logo_2.svg.png)
 ![css](https://user-images.githubusercontent.com/62064103/190607887-25cf26b7-37ea-430d-9e7c-fa00fff0d555.png)
 ![html-5](https://user-images.githubusercontent.com/62064103/190607897-060d39a3-7f45-4c88-930c-a3eab5f09a8a.png)
 ![git](https://user-images.githubusercontent.com/62064103/190607899-a52b9540-de75-4145-83db-46f976902a8e.png)
