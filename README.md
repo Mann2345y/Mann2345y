@@ -16,8 +16,7 @@
 
 ### My Tech Toolbox
 
-![vue](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1280px-Vue.js_Logo_2.svg.png)
-![css](https://user-images.githubusercontent.com/62064103/190607887-25cf26b7-37ea-430d-9e7c-fa00fff0d555.png)
+![vue](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)![css](https://user-images.githubusercontent.com/62064103/190607887-25cf26b7-37ea-430d-9e7c-fa00fff0d555.png)
 ![html-5](https://user-images.githubusercontent.com/62064103/190607897-060d39a3-7f45-4c88-930c-a3eab5f09a8a.png)
 ![git](https://user-images.githubusercontent.com/62064103/190607899-a52b9540-de75-4145-83db-46f976902a8e.png)
 ![react](https://user-images.githubusercontent.com/62064103/190607901-4d210a8f-4bd9-4c70-9f00-b000d3384826.png)
@@ -25,3 +24,11 @@
 ![c-](https://user-images.githubusercontent.com/62064103/190607904-31bc0e7e-9b97-49ef-90bb-65185a3a6e5b.png)
 ![node-js](https://user-images.githubusercontent.com/62064103/190609555-e6f9010a-d04d-42f1-a1b1-c2275d8ccb9e.png)
 ![development (1)](https://user-images.githubusercontent.com/62064103/190608420-c0384292-c7fd-43dc-871f-372d789f6710.png)
+![typescript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
+![nextjs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
+![tailwindcss](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)
+![mongodb](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+![express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
+![firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)
+![vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg)
+![figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
